@@ -9,7 +9,6 @@
 a = int(input('Введите число А: '))
 b = int(input('Введите число B: '))
 def Degree(a, b):
-    deg = 0
     if b == 1:
         return a
     else:
